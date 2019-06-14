@@ -1,0 +1,23 @@
+{
+  "name": "coffee-app",
+  "version": "1.0.0",
+  "description": "A simple coffee application with CLI",
+  "main": "./bin/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "coffee-app": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohankrx",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.20.0",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.3.1",
+    "pad": "^3.2.0"
+  }
+}
