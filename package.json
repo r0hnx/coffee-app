@@ -13,6 +13,10 @@
   },
   "author": "rohankrx",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohankrx/coffee-app.git"
+  },
   "dependencies": {
     "colors": "^1.3.3",
     "commander": "^2.20.0",
