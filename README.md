@@ -14,7 +14,7 @@ A simple coffee ordering application using CLI.
 ```sh-session
 $ git clone https://github.com/rohankrx/coffee-app.git
 $ cd /coffee-app
-$ npm i -g [to install application globally]
+$ npm i -g ./
 ```
 **Usage :**
 
